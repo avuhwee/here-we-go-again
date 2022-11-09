@@ -14,6 +14,7 @@
         height:85%;
         font-weight: bold;
         flex-direction: row;
+        theme: minima;
       }
 
       #container {
@@ -70,7 +71,5 @@
           <div class="greeting">${greet}</div>
         <div/>
     `;
-    theme: minima
 </script> 
 </html>
-
